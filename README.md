@@ -17,6 +17,7 @@
     - [Running the App Manually Next Time](#running-the-app-manually-next-time)
   - [Plans for Future Enhancements](#plans-for-future-enhancements)
   - [Contributing](#contributing)
+  - [Links to the docs](#links-to-the-docs)
   - [License](#license)
 
 # Calls API
