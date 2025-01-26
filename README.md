@@ -151,6 +151,10 @@ uvicorn main:app --port 8080 --reload
    ```
 5. Open a pull request.
 
+## Links to the docs
+- [Task Description](task.md)
+- [Submission Readme](online_submission/475bdbb744b8_devchallange_21/readme.md)
+
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for more information.
