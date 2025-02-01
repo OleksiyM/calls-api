@@ -1,34 +1,33 @@
 - [Calls API](#calls-api)
-  - [Project Description](#project-description)
-  - [Features](#features)
-  - [Technologies Used](#technologies-used)
-    - [Backend Framework](#backend-framework)
-    - [Database](#database)
-    - [Audio Processing](#audio-processing)
-    - [Natural Language Processing (NLP)](#natural-language-processing-nlp)
-    - [Containerization](#containerization)
-    - [Asynchronous Programming](#asynchronous-programming)
-    - [Dependency Management](#dependency-management)
-  - [Installation and Usage](#installation-and-usage)
-    - [Running the App via Docker Compose](#running-the-app-via-docker-compose)
-      - [Prerequisites](#prerequisites)
-    - [Running the App Manually for the First Time](#running-the-app-manually-for-the-first-time)
-      - [See detailes in the readme.md](#see-detailes-in-the-readmemd)
-    - [Running the App Manually Next Time](#running-the-app-manually-next-time)
-  - [Plans for Future Enhancements](#plans-for-future-enhancements)
-  - [Contributing](#contributing)
-  - [Links to the docs](#links-to-the-docs)
-  - [License](#license)
+    - [Project Description](#project-description)
+    - [Features](#features)
+    - [Technologies Used](#technologies-used)
+        - [Backend Framework](#backend-framework)
+        - [Database](#database)
+        - [Audio Processing](#audio-processing)
+        - [Natural Language Processing (NLP)](#natural-language-processing-nlp)
+        - [Containerization](#containerization)
+        - [Asynchronous Programming](#asynchronous-programming)
+        - [Dependency Management](#dependency-management)
+    - [Installation and Usage](#installation-and-usage)
+        - [Running the App via Docker Compose](#running-the-app-via-docker-compose)
+            - [Prerequisites](#prerequisites)
+        - [Running the App Manually for the First Time](#running-the-app-manually-for-the-first-time)
+            - [See detailes in the readme.md](#see-detailes-in-the-readmemd)
+        - [Running the App Manually Next Time](#running-the-app-manually-next-time)
+    - [Plans for Future Enhancements](#plans-for-future-enhancements)
+    - [Contributing](#contributing)
+    - [Links to the docs](#links-to-the-docs)
+    - [License](#license)
 
 # Calls API
 
 ## Project Description
 
-This project was developed as part of the [DevChallenge IT XXI](https://www.devchallenge.it/) Backend category. It
-processes and analyzes telephone conversations to extract structured datasets for analysis. The system extracts details
-such as names, locations,
-emotional tones, and categorizes conversations based on content. It operates without internet dependency and supports
-local file processing. Detailed task you can see in the [task.md](task.md)
+This project was developed as part of the [DevChallenge IT XXI](https://www.devchallenge.it/) Backend category.
+It processes and analyzes telephone conversations to extract structured datasets for analysis. The system extracts
+details such as names, locations, emotional tones, and categorizes conversations based on content. It operates without
+internet dependency and supports local file processing. Detailed task you can see in the [task.md](task.md)
 
 ## Features
 
@@ -153,10 +152,10 @@ uvicorn main:app --port 8080 --reload
 5. Open a pull request.
 
 ## Links to the docs
+
 - [Task Description](task.md)
 - [Submission Readme](online_submission/475bdbb744b8_devchallange_21/readme.md)
 
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for more information.
-
